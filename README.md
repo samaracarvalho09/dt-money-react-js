@@ -7,7 +7,11 @@
 > npm install @radix-ui/react-radio-group
 
 
- 
+Back-end
+> npm i json-server -D
+> npx json-server server.json
+> npx json-server server.json -p 3333
+> npx json-server server.json -p 3333 -w (é o modo watch)
 
 
 
